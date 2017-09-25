@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config-parkpark",
+  "name": "@parkpark.dk/prettier-config",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
